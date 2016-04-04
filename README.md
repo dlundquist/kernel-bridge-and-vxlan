@@ -7,8 +7,8 @@ extracted out of the tree so they can be built independantly.
 Usage
 -----
 
-  make
-  insmod bridge/bridge.ko
-  insmod vxlan.ko
+    make
+    insmod bridge/bridge.ko
+    insmod vxlan.ko
 
 
